@@ -11,5 +11,6 @@ pytz
 aiohttp
 cfonts
 Flask
+flask
 jsonify
 requests

@@ -10,6 +10,6 @@ protobuf-decoder
 pytz
 aiohttp
 cfonts
-Flask
 flask
 jsonify
+pyrogram

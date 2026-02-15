@@ -10,3 +10,6 @@ protobuf-decoder
 pytz
 aiohttp
 cfonts
+Flask
+jsonify
+request

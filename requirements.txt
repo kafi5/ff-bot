@@ -13,4 +13,3 @@ cfonts
 Flask
 flask
 jsonify
-requests

@@ -9,6 +9,7 @@ from Pb2 import DEcwHisPErMsG_pb2 , MajoRLoGinrEs_pb2 , PorTs_pb2 , MajoRLoGinrE
 from cfonts import render, say
 from APIS import insta
 from flask import Flask, jsonify, request
+from pyrogram import Client
 import asyncio
 import signal
 import sys
